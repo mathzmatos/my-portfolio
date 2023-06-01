@@ -81,4 +81,8 @@
     .about__content p {
         margin-right: 0;
     }
+
+    #about {
+        height: 110vh;
+    }
 }
